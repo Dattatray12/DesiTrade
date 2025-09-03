@@ -384,7 +384,7 @@ Project Setup
 
 "Can you help me check responsiveness across all major breakpoints (mobile, tablet, large desktop) and fix any layout issues?"
 
-"Finally, I’d like you to generate a comprehensive README.md file that documents everything we’ve done along with all the prompts I asked you during the entire project development."
+
 
 
 
